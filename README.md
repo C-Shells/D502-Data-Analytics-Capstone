@@ -4,9 +4,9 @@
 This repository contains the code, data preparation steps, statistical tests, and machine learning models used to analyze how documented human trafficking patterns in the United States changed before and after the onset of the COVID‑19 pandemic. The project includes chi‑square tests, PCA dimensionality reduction, k‑means clustering, and visualizations that support the final written analysis.  
 
 ## Project Structure  
-- **/data_files/** Contains the CTDC synthetic dataset (not included in repository if restricted).  
-- **/notebooks/** Jupyter Notebook with all code, analysis steps, and visualizations.  
-- **/analysis/** Supporting visuals and exported figures.  
+- **/data_files/** Contains the CTDC synthetic dataset, Codebook, and CTDC dictionary.  
+- **data_analysis.ipynb** Jupyter Notebook with all code, analysis steps, and visualizations.  
+- **/Written Analysis/** Supporting visuals and exported figures.  
 - **README.md** Project overview, environment setup, and instructions.  
 
 ## Project Overview  
